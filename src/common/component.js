@@ -71,7 +71,7 @@ class Component extends HTMLElement {
    */
   async buildHTML() {
     return await this.loadStyles() +
-      await this.template();
+      await this.template() + "<title>Catppuccin Starpage</title>";
   }
 
   /**
