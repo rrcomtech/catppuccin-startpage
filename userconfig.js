@@ -3,7 +3,7 @@ let saved_config = JSON.parse(localStorage.getItem("CONFIG"));
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Berlin",
     scale: "C",
   },
   clock: {
@@ -46,7 +46,7 @@ const default_config = {
             },
             {
               name: "calendar",
-              url: "https://calendar.google.com",
+              url: "https://www.icloud.com/calendar/",
               icon: "calendar-filled",
               icon_color: "#fab387",
             },
