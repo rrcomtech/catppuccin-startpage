@@ -22,12 +22,6 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
-              icon_color: "#a6e3a1",
-            },
-            {
               name: "musicForProgramming();",
               url: "https://musicforprogramming.net/sixty",
               icon: "binary-tree",
@@ -39,21 +33,15 @@ const default_config = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
-              icon_color: "#a6e3a1",
-            },
-            {
               name: "calendar",
               url: "https://www.icloud.com/calendar/",
               icon: "calendar-filled",
               icon_color: "#fab387",
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
+              name: "nextcloud",
+              url: "https://nextcloud.rrcomtech.com",
+              icon: "cloud_download",
               icon_color: "#f38ba8",
             },
             {
@@ -63,42 +51,7 @@ const default_config = {
               icon_color: "#89b4fa",
             },
           ],
-        },
-        {
-          name: "media",
-          links: [
-            {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
-              icon_color: "#fab387",
-            },
-            {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: "#89b4fa",
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: "#cba6f7",
-            },
-          ],
-        },
+        }
       ],
     },
     {
@@ -115,12 +68,6 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
-              icon_color: "#fab387",
-            },
-            {
               name: "wakatime",
               url: "https://wakatime.com/dashboard",
               icon: "24-hours",
@@ -131,12 +78,6 @@ const default_config = {
         {
           name: "challenges",
           links: [
-            {
-              name: "kaggle",
-              url: "https://www.kaggle.com/volodymyrpivoshenko",
-              icon: "brain",
-              icon_color: "#a6e3a1",
-            },
             {
               name: "leetcode",
               url: "https://leetcode.com",
@@ -196,13 +137,7 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
-              icon_color: "#fab387",
-            },
-            {
-              name: "reddit",
+              name: "reddit unixporn",
               url: "https://www.reddit.com/r/unixporn",
               icon: "brand-reddit",
               icon_color: "#f38ba8",
